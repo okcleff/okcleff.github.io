@@ -10,25 +10,33 @@ sitemap:
 
 <p class="describe-text">okcleff's blog as a web developer</p>
 
-> ## Education
+<br />
 
-### Bootcamp
+> ### Experience
 
-- wecode 26기 웹 개발 교육과정 (2021.10 - 2021.12)
+#### 앤서테크놀로지스 (2021.12 - 2021.12)
 
-### University
+- 프런트엔드 웹 개발 인턴(서비스 Q/A 및 버그 픽스, UI/UX 개선)
 
-- 고려대학교 언어학과 (2009.03 - 2017.02)
+#### 마이다스에셋자산운용 (2018.03 - 2021.05)
 
-> ## Experience
+- 마케팅팀 대리 (상품기획 및 관리 담당)
 
-### 한화생명 영업관리 공채
+#### 한화생명 (2017.01 - 2018.02)
 
-wecode 26기 웹 개발 교육과정 (2021.10 - 2021.12)
+- 개인영업본부 사원 (영업 지점 관리)
 
-### University
+<br />
 
-고려대학교 언어학과 (2009.03 - 2017.02)
+> ### Education
+
+#### Bootcamp
+
+- wecode 26기 웹 개발 교육과정 수료 (2021.10 - 2021.12)
+
+#### University
+
+- 고려대학교 언어학과 학사 (2009.03 - 2017.02)
 
 <!-- This is the index page, describe yourself in few sentences here. Perhaps talk about what you do for living and what you do in your free time. Maybe even leave an [email@address.com](#) or a link to your [resume](#).
 
