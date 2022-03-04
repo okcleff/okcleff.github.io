@@ -2,7 +2,7 @@ title: okcleff's blog # Shown in header on pages with full_logo: true
 short_logo: okcleff's blog # Shown in header on all pages by default unless full_logo: true is set
 description: > # The description for your site
   okcleff's blog as a web developer
-url: "https://okcleff.github.io/" # Site base URL
+url: "https://okcleff.github.io" # Site base URL
 author:
   name: okcleff
   github: okcleff # GitHub username, used for GitHub icon on the top right
